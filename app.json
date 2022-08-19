@@ -82,6 +82,5 @@
       "plan": "heroku-postgresql",
      
       }
-    }
   ]
 }
